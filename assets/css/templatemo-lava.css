@@ -878,8 +878,9 @@ testimonials
 }
 
 #testimonials .item .testimonial-content {
-  background: rgb(244,129,63);
-  background: linear-gradient(145deg, rgba(244,129,63,1) 0%, rgba(241,85,106,1) 100%);
+  background: rgb(55,101,112);
+  background: linear-gradient(145deg, rgba(55,101,112,1) 0%, rgba(102,58,85,1) 100%)
+;
   margin-left: 60px;
   padding: 40px 30px;
   text-align: center;
@@ -932,8 +933,9 @@ testimonials
   line-height: 80px;
   text-align: center;
   display: inline-block;
-  background: rgb(244,129,63);
-  background: linear-gradient(145deg, rgba(244,129,63,1) 0%, rgba(241,85,106,1) 100%);
+  background: rgb(55,101,112);
+  background: linear-gradient(145deg, rgba(55,101,112,1) 0%, rgba(102,58,85,1) 100%)
+;
   position: absolute;
 }
 
@@ -949,8 +951,9 @@ testimonials
   line-height: 80px;
   text-align: center;
   display: inline-block;
-  background: rgb(244,129,63);
-  background: linear-gradient(145deg, rgba(244,129,63,1) 0%, rgba(241,85,106,1) 100%);
+  background: rgb(55,101,112);
+  background: linear-gradient(145deg, rgba(55,101,112,1) 0%, rgba(102,58,85,1) 100%)
+;
   position: absolute;
 }
 
@@ -1163,7 +1166,7 @@ preloader
 */
 #preloader {
   overflow: hidden;
-  background-image: linear-gradient(145deg, #f4813f 0%, #f1556a 100%);
+  background-image: linear-gradient(145deg, #376570 0%, #663A55 100%);
   left: 0;
   right: 0;
   top: 0;
